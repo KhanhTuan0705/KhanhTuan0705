@@ -1,6 +1,4 @@
-# <img src="https://img.shields.io/badge/Overview-README.md-blue" alt="Overview">
-
-## About Me:
+<h2>⭐ About Me:</h2>
 🎓 I'm a Software Engineering student with a strong passion for coding and continuous self-improvement. My ambition is to evolve into a professional developer, creating innovative and high-impact software products.
 
 💡 Enthusiastic about exploring new web technologies and pushing the boundaries of what’s possible.
