@@ -6,10 +6,10 @@
 
 📚 Dedicated to lifelong learning and constantly expanding my knowledge.
 
-## Socials:
+<h2>⚙️ Tech Stack:</h2>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu%E1%BA%A5n-nguy%E1%BB%85n-kh%C3%A1nh-60a397361/)
 
-## Tech Stack:
+<h2>🌐 Socials:</h2>
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
