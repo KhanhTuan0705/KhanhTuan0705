@@ -1,10 +1,9 @@
 # <img src="https://img.shields.io/badge/Overview-README.md-blue" alt="Overview">
 
 ## About Me:
-🎓 I'm currently a Software Engineering student, passionate about learning and improving my coding skills. My goal is to become a professional developer and build useful, high-quality software products in the future  
-💡 Love exploring web technologies  
-📚 Always learning something new
-
+🎓 I'm a Software Engineering student with a strong passion for coding and continuous self-improvement. My ambition is to evolve into a professional developer, creating innovative and high-impact software products.
+💡 Enthusiastic about exploring new web technologies and pushing the boundaries of what’s possible.
+📚 Dedicated to lifelong learning and constantly expanding my knowledge.
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu%E1%BA%A5n-nguy%E1%BB%85n-kh%C3%A1nh-60a397361/)
 
