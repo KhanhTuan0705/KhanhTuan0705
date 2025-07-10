@@ -6,8 +6,7 @@
 📚 Always learning something new
 
 ## Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu%E1%BA%A5n-nguy%E1%BB%85n-kh%C3%A1nh-60a397361/)
 
 ## Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
